@@ -1,0 +1,20 @@
+[
+  {
+    "id": "254712345678@s.whatsapp.net",
+    "name": "John",
+    "score": 85,
+    "ratedAt": "2025-06-15T10:45:00Z"
+  },
+  {
+    "id": "254798765432@s.whatsapp.net",
+    "name": "Alice",
+    "score": 92,
+    "ratedAt": "2025-06-14T16:30:00Z"
+  },
+  {
+    "id": "254700112233@s.whatsapp.net",
+    "name": "Maxi",
+    "score": 77,
+    "ratedAt": "2025-06-13T12:15:00Z"
+  }
+]
