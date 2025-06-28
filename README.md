@@ -2,7 +2,13 @@
 
 A powerful, feature-rich WhatsApp bot built using [Baileys](https://github.com/WhiskeySockets/Baileys).  
 Created and maintained with ❤️ by [M-axie](https://github.com/M-axie).
+## ⭐ Like this bot?
 
+If you find this project helpful:
+- 🌟 Star the repo: [Click here](https://github.com/M-axie/Tiffany-AI/stargazers)
+- 🍴 Fork it: [Click to fork](https://github.com/M-axie/Tiffany-AI/fork)
+
+> Sharing is caring — let others know too!
 ---
 
 ## 🌐 Deployment Options
