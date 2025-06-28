@@ -10,6 +10,15 @@ If you find this project helpful:
 
 > Sharing is caring — let others know too!
 ---
+## 🌐 Tiffany AI Session Generator
+
+Easily generate and download WhatsApp session IDs for Tiffany AI.
+
+🔗 **Live Site:** [tiffany-session.vercel.app](https://tiffany-session.vercel.app)
+
+✅ Powered by Node.js and deployed on Vercel
+
+> Made for the Tiffany-AI WhatsApp bot by [@M-axie](https://github.com/M-axie)
 
 ## 🌐 Deployment Options
 
